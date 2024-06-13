@@ -1,0 +1,22 @@
+{
+  "node": {
+    "4b3ad6dcc68466a0dd8a9f81db9c624ade38ec8b": {
+      "workers": {
+        "app/(dashboard)/transfer/page": "(action-browser)/../../node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frsingh08%2FDeveloper%2FLearning%2F100xdev%2FProjects%2FDigital-Wallet%2Fapps%2Fuser-app%2Fapp%2Flib%2Faction%2FcreateOnrampTransaction.ts%22%2C%5B%22createOnrampTransaction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(dashboard)/transfer/page": "action-browser"
+      }
+    },
+    "a655894d1c3d9ef1dc2187c85d2512d3bb2f2dd5": {
+      "workers": {
+        "app/(dashboard)/p2p/page": "(action-browser)/../../node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Frsingh08%2FDeveloper%2FLearning%2F100xdev%2FProjects%2FDigital-Wallet%2Fapps%2Fuser-app%2Fapp%2Flib%2Faction%2Fp2pTransfer.tsx%22%2C%5B%22p2pTransfer%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(dashboard)/p2p/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "vIvh0PJ1cz4Xz0WB6/FY3AWKtFCY88FR2sROrBYSy+U="
+}
